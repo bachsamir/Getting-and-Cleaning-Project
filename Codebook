@@ -99,4 +99,4 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-Each data is the mean by subject and activity;
+Each data is the mean by subject and activity.
