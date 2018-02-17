@@ -6,12 +6,12 @@ This repo contains 4 files:
    4. TidyData.txt (tidy obtained after performed run_analysis.R)
 
 run_analysis.R performs the following tasks:
-Setting up a working environment
-Enable packages to use
-Download the zip file
-Read files in table format and create a data frame from them
-Task 1: Merges the training and the test sets to create one data set.
-Task 2: Extracts only the measurements on the mean and standard deviation for each measurement.
-Task 3: Uses descriptive activity names to name the activities in the data set
-Task 4: Appropriately labels the data set with descriptive variable names.
-Task 5: Create a tidy data set
+  1. Setting up a working environment
+  2. Enable packages to use
+  3. Download the zip file
+  4. Read files in table format and create a data frame from them
+  5. Task 1: Merges the training and the test sets to create one data set.
+  6. Task 2: Extracts only the measurements on the mean and standard deviation for each measurement.
+  7. Task 3: Uses descriptive activity names to name the activities in the data set
+  8. Task 4: Appropriately labels the data set with descriptive variable names.
+  9. Task 5: Create a tidy data set
